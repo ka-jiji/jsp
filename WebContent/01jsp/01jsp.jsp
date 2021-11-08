@@ -10,6 +10,6 @@
 
 	<h1>Hello new jsp file</h1>
 	<h2>I'm taeuk</h2>
-	
+
 </body>
 </html>
